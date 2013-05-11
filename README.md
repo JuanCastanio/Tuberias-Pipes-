@@ -1,4 +1,6 @@
-ducking-sansa
+Tuberias-Pipes-
 =============
 
-Archivo con tuberías en C para linux
+Proyecto en NetBeans (version 7.3) con tuberías (con nombres) en C para linux
+
+
