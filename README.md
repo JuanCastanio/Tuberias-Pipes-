@@ -1,6 +1,6 @@
 Tuberias-Pipes-
 =============
 
-Archivo con tuberías (con nombres) en C para linux
+Proyecto en NetBeans (version 7.3) con tuberías (con nombres) en C para linux
 
-El proyecto está sobre NetBeans 7.3
+
